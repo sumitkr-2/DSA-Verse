@@ -1,4 +1,4 @@
-<img width="1896" height="797" alt="image" src="https://github.com/user-attachments/assets/9ac9528a-ffc7-4875-88a4-b1314f7d8e67" /># DSA Verse
+# DSA Verse
 
 > **A modern, interactive visualization platform for Data Structures & Algorithms.**
 
