@@ -1,4 +1,4 @@
-# DSA Verse
+<img width="1896" height="797" alt="image" src="https://github.com/user-attachments/assets/9ac9528a-ffc7-4875-88a4-b1314f7d8e67" /># DSA Verse
 
 > **A modern, interactive visualization platform for Data Structures & Algorithms.**
 
@@ -10,6 +10,9 @@
 Every algorithm and data structure is brought to life with beautiful, dark-themed, glassmorphic visualizations and step-by-step animations.
 
 ---
+<img width="1901" height="864" alt="image" src="https://github.com/user-attachments/assets/b808bc6f-0924-4d76-84dd-10e63dcfdd46" />
+<img width="1896" height="797" alt="image" src="https://github.com/user-attachments/assets/b38c6291-7e6e-4a72-a613-e29535c8fcc6" />
+<img width="1902" height="867" alt="image" src="https://github.com/user-attachments/assets/bbbf10b5-2bc1-4776-8896-65338da7528d" />
 
 ## ✨ Features
 
